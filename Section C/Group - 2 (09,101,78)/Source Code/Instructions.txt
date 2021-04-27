@@ -1,0 +1,2 @@
+The name of the database is cric_db
+Password for the mysql is 'student'
